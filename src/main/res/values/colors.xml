@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- mobile.hospital.barcode -->
+    <color name="vf_frame">#ff000000</color>
+    <color name="vf_laser">#ffff0000</color>
+    <color name="vf_mask">#60000000</color>
+    <color name="vf_result">#b0000000</color>
+    <color name="vf_result_points">#c0ffff00</color>
+</resources>

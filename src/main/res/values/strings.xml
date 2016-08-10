@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zxing</string>
+
+    <!-- mobile.hospital.barcode -->
+    <string name="scan_result">条码内容</string>
+    <string name="scan_try">扫一扫</string>
+    <string name="scan_text">请将矩形区域对准条码</string>
+    <string name="scan_failed">条码扫描失败</string>
+</resources>
